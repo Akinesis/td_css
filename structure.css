@@ -16,22 +16,19 @@ header {
     .left-aside {
         background-color: gold;
         order: 1;
-        width: 30%;
         flex: 1;
     }
     
     .right-aside {
         background-color: hotpink;
         order: 3;
-        width: 30%;
         flex: 1;
     }
     
     main {
         background-color: deepskyblue;
         order: 2;
-        width: 30%;
-        flex: 1;
+        flex: 3;
     }
 }
 
